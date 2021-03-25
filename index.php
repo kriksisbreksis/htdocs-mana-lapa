@@ -8,19 +8,15 @@
     <title>Kristofers</title>
 </head>
 <body >
+<form action="cfg.php" name="post">
     <div class=login>
         <h1>Account login</h1>
         <p>username</p>
-        <label>
-            <input type="text">
-        </label>
+        <input type='text' name='login' placeholder="Username"/>
         <p>password</p>
-        <label>
-            <input type="password">
-        </label>
-        <a href="home.php">
-            <Button>login</Button>
-        </a>
+        <input type='password' name='password' placeholder="Pa$$w0rd1" />
+        <button>login</button>
     </div>
+</form>
 </body>
 </html>
