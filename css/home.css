@@ -1,0 +1,36 @@
+.ieraksts{
+    color: rgb(0, 0, 0);
+    background-color: rgb(14, 240, 52);
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.btn-align{
+    position: relative;
+    margin-left: 80%;
+    border-radius: 0%;
+}
+.plus{
+    font-size: 50px;
+    color: rgb(8, 240, 58);
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: rgb(29, 233, 46);
+    text-align: right;
+    line-height: 4em;
+    font-size: 14pt;
+}
+.datums{
+    position: relative;
+    left: 20px;
+    top: -30px;
+    width: 120px;
+    background-color: black;
+    height: 23px;
+    font-style: italic;
+    color: rgb(26, 236, 26);
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    border:solid 1px rgb(32, 240, 49);
+}
