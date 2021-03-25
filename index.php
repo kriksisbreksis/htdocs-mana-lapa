@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/login.css">
     <title>Kristofers</title>
@@ -19,7 +19,7 @@
             <input type="password">
         </label>
         <a href="home.php">
-        <Button>login</Button>
+            <Button>login</Button>
         </a>
     </div>
 </body>
