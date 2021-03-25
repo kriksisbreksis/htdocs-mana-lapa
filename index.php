@@ -11,9 +11,13 @@
     <div class=login>
         <h1>Account login</h1>
         <p>username</p>
-        <input type="text">
+        <label>
+            <input type="text">
+        </label>
         <p>password</p>
-        <input type="password">
+        <label>
+            <input type="password">
+        </label>
         <a href="home.php">
         <Button>login</Button>
         </a>
